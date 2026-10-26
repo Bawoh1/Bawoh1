@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+I'm Bryant, an aspiring Data Engineer based in Atlanta
+
+Trying to get my hands dirty with all things tech, I really enjoy using SQL & Python
+
+This is still a pretty fresh profile where I'll be uploading some smaller projects, experiments, and things I'm currently working on. 
+Everything here is built from scratch , no Youtube tutorials.
+
 <!--
 **Bawoh1/Bawoh1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
